@@ -1,4 +1,4 @@
-#social-network-analysis
+social-network-analysis
 This project aims to investigate the mental health discussion taking part in UK health forum. We want to focus on bipolar forum available in https://www.mentalhealthforum.net/forum/threads/rollercoaster-ride-called-bipolar.198331/ The forum contains a large set of threads initiated by one member together with associated set of replies from other users.
 
 From the forum, scrap the dataset utilizing only threads which contain more than 10 replies. You can either use the forum API, or through manual download in some structured database, which includes thread messages and their initiated user IDs, associated replies with their user IDs and time of posts.
